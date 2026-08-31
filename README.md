@@ -2,6 +2,8 @@
 
 **Reflect today. Eat better tomorrow.**
 
+[Open the live NutriNote Daily app](https://nutrinote-daily.santhoshipilla99.chatgpt.site)
+
 NutriNote Daily is a small, privacy-first wellness app that turns a five-minute food and supplement check-in into a clear reflection and three realistic priorities for tomorrow.
 
 ## What it does
